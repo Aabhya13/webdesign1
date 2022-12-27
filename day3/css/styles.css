@@ -1,0 +1,83 @@
+{
+    margin:0;
+                        }
+
+                            p{
+                                color:green;
+                                font-size:30px;
+                                font-weight: bold;
+                                text-decoration:underline;
+                                text-decoration-color:red;
+                                text-decoration-style :dashed;
+                            }
+                            h1{
+                                color:blue;
+                                text-transform:uppercase;
+                                margin:15px;
+                                margin:30px 30px;
+                                margin: 30px 30px 30px 30px;
+                                margin-top:0px;
+                                margin-bottom:30px;
+                                margin-left: 0;
+                                margin-right: 0;
+                                text-align:center;
+                                /*background-color: #f1c40f;*/
+                                /*background-image: linear-gradient(to right,red,yellow,purple);*/
+                                background-image:radial-gradient(yellow,red,yellow);
+                                
+
+                            
+                            }
+                        .box1{ 
+
+                            width:500px;
+                            height:300px;
+                            background:url("../images/image.jpeg")no-repeat center;
+                            background-size:cover;
+                            
+
+                        }
+                        .box2{ 
+
+                            width:500px;
+                            height:300px;
+                            background:url("../images/images13.jpeg")no-repeat center;
+                            background-size:cover;
+                            
+
+                        }
+
+                        .box3{ 
+
+                            width:500px;
+                            height:300px;
+                            background:url("../images/images14.jpeg")no-repeat center;
+                            background-size:cover;
+                            
+
+                        }
+
+                        .box4{ 
+
+                            width:500px;
+                            height:300px;
+                            background:url("../images/images16.jpeg")no-repeat center;
+                            background-size:cover;
+                            
+
+                        }
+
+                        .box5{ 
+
+                            width:500px;
+                            height:300px;
+                            background:url("../images/image.jpeg")no-repeat center;
+                            background-size:cover;
+                            
+
+                        }
+
+
+                   
+                   
+                            
