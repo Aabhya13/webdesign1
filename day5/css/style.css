@@ -1,0 +1,54 @@
+   @font-face{
+    font-family:'birthday';
+    src: url('./../fonts/harley.ttf');
+   }
+   
+   
+   
+   
+   
+   
+   
+   *{
+        margin:0;
+        padding:0;
+    
+    }
+    body{
+        font-size:16px;
+    }
+    h1{
+        background-color: aqua;
+        margin-top: 30px;
+        font-family:'birthday';
+    }
+    nav ul{
+        text-align:center;
+        margin:15px,0px;
+    }
+    
+    
+    nav ul li{
+        display:inline-block;
+    
+    }
+    nav ul li a{
+        display:inline;
+        text-decoration: none;
+        background-color: blueviolet;
+        color:blanchedalmond;
+        padding:10px,30px;
+        border-radius: 15px;
+        text-transform: uppercase;
+        font-family: 'Sevillana', cursive;
+     }
+
+     span{
+        display:inline-block;
+        background:red;
+        margin-top:50px;
+
+     }
+
+
+
